@@ -6,7 +6,7 @@
 
 ## Prerequisites
 
- - **Windows:** .NET Core 2+
+ - **.NET Core 2+**
  
 ## Online resources
 
@@ -46,4 +46,4 @@ More thorough information available in the [wiki][wiki].
 
 The MIT license (Refer to the [LICENSE.md][license] file)
 
- [license]: https://github.com/rogcfagundes/Ldap/LICENSE.md
+ [license]: https://github.com/rogcfagundes/Ldap/LICENSE
