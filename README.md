@@ -2,7 +2,7 @@
 
 **System.DirectoryServices.AccountManagement.Core encapsulates the original library System.DirectoryServices.AccountManagement using Novell.Directory.Ldap.NETStandard2_0 for .Net Core.**
 
- [System.DirectoryServices.AccountManagement.Core]: https://github.com/rogcfagundes/Ldap
+ [System.DirectoryServices.AccountManagement.Core]: https://github.com/rogcfagundes/Ldap/tree/master/Ldap/System.DirectoryServices.AccountManagement.Core
 
 ## Prerequisites
 
@@ -14,7 +14,7 @@
  - [Source code][source]
 
  [nuget]: 
- [source]: https://github.com/rogcfagundes/Ldap
+ [source]: https://github.com/rogcfagundes/Ldap/tree/master/Ldap
 
 ## Troubleshooting and support
 
@@ -46,4 +46,4 @@ More thorough information available in the [wiki][wiki].
 
 The MIT license (Refer to the [LICENSE.md][license] file)
 
- [license]: https://github.com/rogcfagundes/Ldap/LICENSE
+ [license]: https://github.com/rogcfagundes/Ldap/blob/master/LICENSE
