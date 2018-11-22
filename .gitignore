@@ -3,3 +3,7 @@
 ################################################################################
 
 /Ldap/.vs
+/Ldap/System.DirectoryServices.AccountManagement.Core/bin/Debug/netcoreapp2.0
+/Ldap/System.DirectoryServices.AccountManagement.Core/obj
+/Ldap/System.DirectoryServices.AccountManagement.Core.Tests/bin/Debug/netcoreapp2.0
+/Ldap/System.DirectoryServices.AccountManagement.Core.Tests/obj
